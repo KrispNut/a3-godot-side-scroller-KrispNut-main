@@ -1,0 +1,13 @@
+res://scenes/leveltwo.tscn
+res://scenes/Game.tscn
+res://scripts/Coin.cs
+res://scripts/Player.cs
+res://scripts/Hidden_Collider.cs
+res://scripts/Killzone.cs
+res://scripts/GameManager.cs
+res://scripts/Slime.cs
+res://scenes/Player.tscn
+res://scenes/Hidden_Collider.cs
+res://scenes/level.tscn
+res://scripts/level.cs
+res://scenes/Coin.tscn

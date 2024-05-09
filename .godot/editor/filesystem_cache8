@@ -1,0 +1,55 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1715260320
+default_bus_layout.tres::AudioBusLayout::6185017525997031532::1714860162::0::1::::<><>::
+icon.svg::CompressedTexture2D::2086033266681434553::1714860162::1714860162::1::::<><>::
+README.md::TextFile::-1::1714860162::0::1::::<><>::
+::res://assets/::1714860162
+::res://assets/fonts/::1714860162
+PixelOperator8-Bold.ttf::FontFile::1565737515463698366::1714860162::1714860162::1::::<><>::
+PixelOperator8.ttf::FontFile::6807538057265389475::1714860162::1714860162::1::::<><>::
+::res://assets/music/::1714860162
+time_for_adventure.mp3::AudioStreamMP3::2022865727967283643::1714860162::1714860162::1::::<><>::
+::res://assets/sounds/::1714860162
+coin.wav::AudioStreamWAV::8590872522336955619::1714860162::1714860162::1::::<><>::
+explosion.wav::AudioStreamWAV::2118312330427667039::1714860162::1714860162::1::::<><>::
+hurt.wav::AudioStreamWAV::5000861793568266003::1714860162::1714860162::1::::<><>::
+jump.wav::AudioStreamWAV::3578989311385684073::1714860162::1714860162::1::::<><>::
+power_up.wav::AudioStreamWAV::6130125743045499007::1714860162::1714860162::1::::<><>::
+tap.wav::AudioStreamWAV::1262350116859595184::1714860162::1714860162::1::::<><>::
+::res://assets/sprites/::1715265479
+coin.png::CompressedTexture2D::8203788108631212970::1714860162::1714860162::1::::<><>::
+Dungeon Ruins Tileset Day.png::CompressedTexture2D::8507662765307975796::1593828563::1715261503::1::::<><>::
+fruit.png::CompressedTexture2D::3584778241068334028::1714860162::1714860162::1::::<><>::
+knight.png::CompressedTexture2D::2874277710718309287::1714860162::1714860162::1::::<><>::
+platforms.png::CompressedTexture2D::8301006357015648817::1714860162::1714860162::1::::<><>::
+run.png::CompressedTexture2D::9065859329076946545::1601339177::1715257641::1::::<><>::
+SCi-fi assets planet one.png::CompressedTexture2D::5191411798324697364::1715231954::1715257641::1::::<><>::
+slime_green.png::CompressedTexture2D::480186655289701323::1714860162::1714860162::1::::<><>::
+slime_purple.png::CompressedTexture2D::468740856380242118::1714860162::1714860162::1::::<><>::
+Small dagg attack.png::CompressedTexture2D::5881946252014989663::1601339286::1715257641::1::::<><>::
+Small jump.png::CompressedTexture2D::5641178604338324503::1601339199::1715257641::1::::<><>::
+Smalldash.png::CompressedTexture2D::7508763076646762318::1601339219::1715257641::1::::<><>::
+Smallsword attack.png::CompressedTexture2D::2774389164354032055::1601339260::1715257641::1::::<><>::
+Wasteland-Files.png::CompressedTexture2D::5924126208706462818::1715265385::1715262451::1::::<><>::
+Wasteland_Mountains_1.png::CompressedTexture2D::8131201490629273742::1715262391::1715262451::1::::<><>::
+Wasteland_Mountains_2.png::CompressedTexture2D::5934321015151363261::1715262396::1715262451::1::::<><>::
+Wasteland_Sky.png::CompressedTexture2D::6267797892466247323::1715262400::1715262451::1::::<><>::
+world_tileset.png::CompressedTexture2D::4914712492325850376::1714860162::1714860162::1::::<><>::
+::res://doc/::1714860630
+img01.png::CompressedTexture2D::4583989465218706388::1714860162::1714860630::1::::<><>::
+::res://scenes/::1715290744
+Coin.tscn::PackedScene::4274142580723219639::1715290743::0::1::::<><>::uid://do48grpdqhqic::::res://assets/sprites/coin.png<>res://scripts/Coin.cs<>uid://dunqoec8jwwfb::::res://assets/sounds/coin.wav
+Game.tscn::PackedScene::1553413066903572809::1715290782::0::1::::<><>::res://scripts/GameManager.cs<>uid://cc8npgcgjlm2k::::res://scenes/Player.tscn<>uid://ccayuj1x4grkq::::res://assets/sprites/world_tileset.png<>uid://bikqwm1ck0cqn::::res://scenes/Platform.tscn<>uid://b15orepdq56fb::::res://scenes/Coin.tscn<>uid://dthf7y7kh0mci::::res://assets/sprites/Dungeon Ruins Tileset Day.png<>uid://bwxifsetxutcj::::res://scenes/Killzone.tscn<>uid://dsty6v6eoxogr::::res://scenes/Slime.tscn<>uid://c38vfly7t5xqh::::res://assets/fonts/PixelOperator8.ttf<>uid://wkpp6fdbuk3o::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://325kki6pgdx8::::res://assets/music/time_for_adventure.mp3
+Killzone.tscn::PackedScene::3978551549479181705::1714860162::0::1::::<><>::res://scripts/Killzone.cs
+leveltwo.tscn::PackedScene::3646188018962920350::1715286425::0::1::::<><>::res://scripts/GameManager.cs<>uid://cc8npgcgjlm2k::::res://scenes/Player.tscn<>uid://ccayuj1x4grkq::::res://assets/sprites/world_tileset.png<>uid://bwxifsetxutcj::::res://scenes/Killzone.tscn<>uid://cf7018xh351vs::::res://assets/sprites/SCi-fi assets planet one.png<>uid://cvkfylgce8wyl::::res://assets/sprites/Wasteland_Sky.png<>uid://b15orepdq56fb::::res://scenes/Coin.tscn<>uid://cqnxq1cbw8mfa::::res://assets/sprites/Wasteland-Files.png<>uid://dthf7y7kh0mci::::res://assets/sprites/Dungeon Ruins Tileset Day.png<>uid://bikqwm1ck0cqn::::res://scenes/Platform.tscn<>uid://dsty6v6eoxogr::::res://scenes/Slime.tscn<>uid://dn32x24dipahi::::res://assets/sprites/Wasteland_Mountains_1.png<>uid://cqsvnurx5xsb2::::res://assets/sprites/Wasteland_Mountains_2.png<>uid://c38vfly7t5xqh::::res://assets/fonts/PixelOperator8.ttf<>uid://wkpp6fdbuk3o::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://325kki6pgdx8::::res://assets/music/time_for_adventure.mp3
+Platform.tscn::PackedScene::2969586640238465245::1715257723::0::1::::<><>::uid://dqjcmkmoqg1gn::::res://assets/sprites/platforms.png
+Player.tscn::PackedScene::4982159946875573368::1715285725::0::1::::<><>::res://scripts/Player.cs<>uid://bg7k60wkdorwx::::res://assets/sprites/knight.png
+level.tscn::PackedScene::2260354715695731462::1715290798::0::1::::<><>::res://scripts/Coin.cs<>uid://do48grpdqhqic::::res://assets/sprites/coin.png<>uid://dunqoec8jwwfb::::res://assets/sounds/coin.wav
+Slime.tscn::PackedScene::8463398132409129453::1714860162::0::1::::<><>::uid://g3uusj3n8cfb::::res://assets/sprites/slime_green.png<>res://scripts/Slime.cs<>uid://bwxifsetxutcj::::res://scenes/Killzone.tscn
+::res://scripts/::1715289471
+Coin.cs::CSharpScript::-1::1715288174::0::1::::<>Area2D<>::
+GameManager.cs::CSharpScript::-1::1714860162::0::1::::<>Node<>::
+Killzone.cs::CSharpScript::-1::1714860162::0::1::::<>Area2D<>::
+level.cs::CSharpScript::-1::1715290249::0::1::::<>Area2D<>::
+Player.cs::CSharpScript::-1::1714860162::0::1::::<>CharacterBody2D<>::
+Slime.cs::CSharpScript::-1::1714860162::0::1::::<>Node2D<>::
